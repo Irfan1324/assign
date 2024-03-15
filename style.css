@@ -1,0 +1,66 @@
+section {
+    display: flex;
+}
+
+span {
+    color: orangered;
+}
+
+#order {
+    color: white;
+    background-color: orangered;
+    background-image: linear-gradient(orange purple);
+    border: orangered solid;
+    border-radius: 25px;
+    border-width: 5%;
+    padding: 25px;
+    font-weight: 700;
+    font-size: 2em;
+    margin-left: 20px;
+    margin-right: 60%;
+    text-decoration: none;
+}
+
+.portions {
+    width: 50%;
+    margin: 15px 10px 100px 15px;
+}
+
+#left {
+    margin-left: 25px;
+    font-size: 2.5em;
+}
+
+li:nth-child(2n) {
+    color: navy;
+    background-color: hotpink;
+    padding: 10px;
+    margin 20px 70px 20px 20px;
+}
+
+li:nth-child(2n+1) {
+    color: black;
+    background-color: orchid;
+    padding: 10px;
+    margin 20px 70px 20px 20px;
+}
+
+.listed {
+    font-size: 2.5em;
+    margin-top: 30%;
+}
+
+#Contact-Me {
+    color: white;
+    background-color: orangered;
+    background-image: linear-gradient(orange purple);
+    border: orangered solid;
+    border-radius: 25px;
+    border-width: 5%;
+    padding: 25px;
+    font-weight: 500;
+    font-size: 2em;
+    margin-left: 20%;
+    margin-right: 30%;
+    text-decoration: none;
+}
