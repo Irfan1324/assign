@@ -64,3 +64,29 @@ li:nth-child(2n+1) {
     margin-right: 30%;
     text-decoration: none;
 }
+
+.center {
+    text-align: center;
+    font-size: 2em;
+}
+
+#three-item {
+    width: 20%;
+    border-color: white;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+#three-items {
+    width: 20%;
+    border-color: white;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+#three-itemed {
+    width: 20%;
+    border-color: white;
+    border-radius: 25px;
+    padding: 20px;
+}
